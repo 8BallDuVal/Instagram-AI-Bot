@@ -1,2 +1,6 @@
-# Instagram-AI-Bot
-Chatgpt prompt: Create a ci/cd pipeline that automatically generates photos for an Instagram account and a caption using AI, then posts it using Instagram api. The photo and caption should be generated with ai and should be related to a fictional pizza place called mama pine's in raleigh nc
+# Mama Pine's Instagram Auto-Poster
+
+This repo contains a CI/CD pipeline that:
+- Generates a pizza-themed photo for Mama Pine's (fictional pizzeria in Raleigh, NC).
+- Generates a caption using AI.
+- Posts it to Instagram via the Instagram Graph API.
